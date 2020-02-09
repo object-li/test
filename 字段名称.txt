@@ -1,0 +1,16 @@
+	title
+
+	red_time
+
+	author
+
+	img_url
+
+	content
+
+	creat_time
+
+	type_id
+
+      2018-08-12 20:27:46
+	
